@@ -2,7 +2,6 @@
     box-sizing: border-box;
     margin: 0;
     padding: 0;
-    background-color: white;
 }
 header {
    position: fixed;
@@ -157,6 +156,7 @@ footer .social-icons a img {
 footer .social-icons a img:hover {
     transform: scale(2.2);
 }
+
 
 
 
